@@ -1,0 +1,9 @@
+{
+  "appId": "com.arkclipstudio.app",
+  "appName": "Dark Clip Studio",
+  "webDir": "www",
+  "server": {
+    "url": "https://glowing-robot-6vp6p756r4w9fr47p-5000.app.github.dev",
+    "cleartext": true
+  }
+}
